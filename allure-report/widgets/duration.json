@@ -1,0 +1,1 @@
+[{"uid":"c67e5cf305f71006","name":"@smoke Playwright Special locators","time":{"start":1774740657703,"stop":1774740661899,"duration":4196},"status":"passed","severity":"normal"},{"uid":"c2252c42cf997801","name":"@smoke E2E e-commerce test","time":{"start":1774740657704,"stop":1774740666176,"duration":8472},"status":"passed","severity":"normal"}]

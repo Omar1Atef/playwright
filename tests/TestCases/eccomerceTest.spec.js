@@ -7,7 +7,7 @@ import OrderConfirmationPage from '../../pageObject/orderConfirmationPage.js';
 import OrdersHistoryPage from '../../pageObject/ordersHistoryPage.js';
 import OrderSummaryPage from '../../pageObject/orderSummaryPage.js';
 
-test('E2E e-commerce test', async ({ page }) => {
+test('@smoke E2E e-commerce test', async ({ page }) => {
     await page.goto('https://rahulshettyacademy.com/client');
 
     const loginPage = new LoginPage(page);

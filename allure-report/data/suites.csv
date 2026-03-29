@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4196","@smoke Playwright Special locators","","Sun Mar 29 01:30:57 EET 2026","passed","Sun Mar 29 01:31:01 EET 2026","","locators/locators.spec.js","",""
+"","8472","@smoke E2E e-commerce test","","Sun Mar 29 01:30:57 EET 2026","passed","Sun Mar 29 01:31:06 EET 2026","","TestCases/eccomerceTest.spec.js","",""
