@@ -1,10 +1,10 @@
-import LoginPage from './loginPage';
-import ProductsPage from './productsPage';
-import CartPage from './cartPage';
-import OrderReviewPage from './orderReviewPage';
-import OrderConfirmationPage from './orderConfirmationPage';
-import OrdersHistoryPage from './ordersHistoryPage';
-import OrderSummaryPage from './orderSummaryPage';
+import LoginPage from './loginPage.ts';
+import ProductsPage from './productsPage.ts';
+import CartPage from './cartPage.ts';
+import OrderReviewPage from './orderReviewPage.ts';
+import OrderConfirmationPage from './orderConfirmationPage.ts';
+import OrdersHistoryPage from './ordersHistoryPage.ts';
+import OrderSummaryPage from './orderSummaryPage.ts';
 import {type Page } from '@playwright/test';
 
 class PageObjectManager {

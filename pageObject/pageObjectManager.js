@@ -1,10 +1,10 @@
-import LoginPage from './loginPage';
-import ProductsPage from './productsPage';
-import CartPage from './cartPage';
-import OrderReviewPage from './orderReviewPage';
-import OrderConfirmationPage from './orderConfirmationPage';
-import OrdersHistoryPage from './ordersHistoryPage';
-import OrderSummaryPage from './orderSummaryPage';
+import LoginPage from './loginPage.js';
+import ProductsPage from './productsPage.js';
+import CartPage from './cartPage.js';
+import OrderReviewPage from './orderReviewPage.js';
+import OrderConfirmationPage from './orderConfirmationPage.js';
+import OrdersHistoryPage from './ordersHistoryPage.js';
+import OrderSummaryPage from './orderSummaryPage.js';
 
 class PageObjectManager {
     constructor(page) {
